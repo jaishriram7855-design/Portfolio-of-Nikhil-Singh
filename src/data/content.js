@@ -50,7 +50,7 @@ export const projects = [{
   features: ['Admin, Teacher and Student portals', 'Role-based authentication', 'Attendance management', 'Marks management', 'Subject management', 'Assignment management', 'REST APIs'],
   note: 'Nikhil designed and executed the core application logic and workflows. AI-assisted tools supported debugging, productivity and documentation.',
   github: '', // add a real GitHub URL to show the button
-  live: '',   // add a real live URL to show the button
+  live: 'https://college-erp-management-system-1.onrender.com',   // add a real live URL to show the button
 }]
 export const education = [
   { degree: 'MCA (Cyber Security)', status: 'Pursuing', school: 'Lovely Professional University (Online)', place: 'Phagwara, Punjab' },
